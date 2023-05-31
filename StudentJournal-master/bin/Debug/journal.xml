@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Journal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Groups>
+    <Group Year="2" EducationForm="заочная" Name="РИС">
+      <Students>
+        <Student xsi:type="StudentCommercial" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentCommercial" Studbilet="12345678" Name="Иван" Patronymic="Михайлович" Surname="лох" BirthDate="2004-03-01T00:00:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentCommercial" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+      </Students>
+      <Rating>
+        <Student xsi:type="StudentCommercial" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentCommercial" Studbilet="12345678" Name="Иван" Patronymic="Михайлович" Surname="лох" BirthDate="2004-03-01T00:00:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentCommercial" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+      </Rating>
+      <Alphabetical>
+        <Student xsi:type="StudentCommercial" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentCommercial" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentBudget" Studbilet="     132" Name="234545н" Patronymic="цуцуеу" Surname="2345ен" BirthDate="2005-05-29T00:00:00+06:00">
+          <Grades />
+        </Student>
+        <Student xsi:type="StudentCommercial" Studbilet="12345678" Name="Иван" Patronymic="Михайлович" Surname="лох" BirthDate="2004-03-01T00:00:00">
+          <Grades />
+        </Student>
+      </Alphabetical>
+    </Group>
+  </Groups>
+</Journal>

@@ -1,0 +1,14 @@
+C:\Users\Тимур\Downloads\StudentJournal-master\bin\Debug\Students.exe.config
+C:\Users\Тимур\Downloads\StudentJournal-master\bin\Debug\Students.exe
+C:\Users\Тимур\Downloads\StudentJournal-master\bin\Debug\Students.pdb
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\StudentJournal.csproj.AssemblyReference.cache
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\StudentJournal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\Students.FormGroups.resources
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\Students.FormJournal.resources
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\Students.FormStudent.resources
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\Students.FormGrade.resources
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\StudentJournal.csproj.GenerateResource.cache
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\StudentJournal.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\Students.exe
+C:\Users\Тимур\Downloads\StudentJournal-master\obj\Debug\Students.pdb
